@@ -21,7 +21,7 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 | Fortaleza         | [https://github.com/gittogethers/fortaleza](https://github.com/gittogethers/fortaleza) | https://www.meetup.com/gittogether-brasil     |
 | Guatemala City    | [https://github.com/gittogethers/guatemala](https://github.com/gittogethers/guatemala) | https://www.meetup.com/gittogether-guatemala|
 | Hyderabad         | [https://github.com/gittogethers/hyderabad](https://github.com/gittogethers/hyderabad) | https://www.meetup.com/gittogether-hyderabad        |
-| Medellin          | [https://github.com/gittogethers/medellin](https://github.com/gittogethers/medellin) | https://www.meetup.com/gittogether-lmedellin     |
+| Medellin          | [https://github.com/gittogethers/medellin](https://github.com/gittogethers/medellin) | https://www.meetup.com/gittogether-medellin     |
 | Mumbai            | [https://github.com/gittogethers/mumbai](https://github.com/gittogethers/mumbai) | https://www.meetup.com/gittogether-mumbai       |
 | Santiago de Chile | [https://github.com/gittogethers/santiago](https://github.com/gittogethers/santiago) | https://www.meetup.com/gittogether-santiago       |
 | Sao Paulo         | [https://github.com/gittogethers/saopaulo](https://github.com/gittogethers/saopaulo) | https://www.meetup.com/gittogether-brasil       |
