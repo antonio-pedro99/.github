@@ -27,6 +27,7 @@ GitTogethers serves as a platform for organizing and promoting GitHub community-
 | Sao Paulo         | [https://github.com/gittogethers/saopaulo](https://github.com/gittogethers/saopaulo) | https://www.meetup.com/gittogether-brasil       |
 | Sri Lanka     | [https://github.com/gittogethers/srilanka](https://github.com/gittogethers/srilanka) | https://www.meetup.com/gittogether-srilanka     |
 | Villahermosa      | [https://github.com/gittogethers/villahermosa](https://github.com/gittogethers/villahermosa) | https://www.meetup.com/gittogether-latam|
+| Luanda            | [https://github.com/gittogethers/luanda](https://github.com/gittogethers/luanda) | https://www.meetup.com/gittogether-luanda|
 
 ## How to Get Involved
 
